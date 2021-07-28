@@ -15,4 +15,5 @@ const CONFIG = {
     mess: 'Em biết mà 🥰. Yêu oxaaaa nhiều nhiều 😘😘',
     messDesc: 'Sjn loi oxa zì chuyện hôm quaaa, em iu oxa nhìu.',
     btnAccept: 'Anh cũng iu em nhìu <3',
+    mesLink: 'http://https://www.facebook.com/settings?tab=account&section=username
 }
